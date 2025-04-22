@@ -98,6 +98,14 @@ section h3 {
   margin-top: 10px;
 }
 
+.activity-card div strong {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 15px;
+  color: #555;
+  font-weight: bold;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
