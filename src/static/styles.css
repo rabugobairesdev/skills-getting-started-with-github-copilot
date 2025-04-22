@@ -107,6 +107,14 @@ body.dark-mode .activity-card {
   line-height: 1.4;
 }
 
+body.dark-mode .activity-card ul {
+  color: #bbb;
+}
+
+body.dark-mode .activity-card ul li {
+  color: #ddd;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
